@@ -59,7 +59,8 @@ The reported threshold rule describes an image as normal when the average white-
 3. Select **Runtime → Run all**.
 4. Review the preprocessing, ROI extraction, and classification outputs.
 
-[Open the Google Colab notebook]([https://colab.research.google.com/drive/1GUEpVEhOxO-kK5mO2pQFoa79gQrf4Fn7?usp=sharing](https://colab.research.google.com/drive/1GUEpVEhOxO-kK5mO2pQFoa79gQrf4Fn7?usp=sharing))
+[Open the Google Colab notebook]
+https://colab.research.google.com/drive/1GUEpVEhOxO-kK5mO2pQFoa79gQrf4Fn7?usp=sharing
 
 
 ## 📊 Results and Evaluation
